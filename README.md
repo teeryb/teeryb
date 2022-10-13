@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @teeryb
-- 👀 My Website https://teerayutbura-profile.netlify.app/index.html
+- 👀 Website : https://teerayutbura-profile.netlify.app/index.html
 
 <!---
 teeryb/teeryb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
